@@ -9,36 +9,41 @@
 - 기간 : 2021.06 ~ 2021.09
 - 기술 : VisualBasic, Python 3.9, MS Excel Integration
 - 설명 : 연소해석기(TestBed), ECS, CAS 등의 오토메이션 측정 장비를 이용한 대상시험에서 계측된 이종간의 Raw 데이터에 대한 데이터 전처리 통합 -> 채널 매핑 -> 데이터 후처리 -> 데이터 시각화 -> MS 툴 리포팅 등의 데이터 분석후처리 자동화
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/01_%EC%A4%91%EC%9E%A5%EB%B9%84%EC%97%94%EC%A7%84%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%9B%84%EC%B2%98%EB%A6%AC%EC%9E%90%EB%8F%99%ED%99%94%EC%95%B1%EA%B0%9C%EB%B0%9C)
+- [상세보기] : https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/01_%EC%A4%91%EC%9E%A5%EB%B9%84%EC%97%94%EC%A7%84%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%9B%84%EC%B2%98%EB%A6%AC%EC%9E%90%EB%8F%99%ED%99%94%EC%95%B1%EA%B0%9C%EB%B0%9C
+- [데모영상] : https://drive.google.com/file/d/1UN6_foiEhcNy5z8c8--uaAmYJJUjZAAi/view?usp=sharing
 
 ### 2. 엔진 EMS 제어기 Calibration 검증 툴 개발 
 - 기간 : 2021.11 ~ 2022.12
 - 기술 : VisualBasic, Python 3.9, MS Excel Integration  
 - 설명 : 차량 실도로 주행 테스트를 진행하면서 EMS(Engine Management System) Calibration 품질을 검증확인할 수 있는 자동 데이터 후처리 SW 유지보수 전담
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/02_%EC%97%94%EC%A7%84EMS%EC%A0%9C%EC%96%B4%EA%B8%B0Calibration%EA%B2%80%EC%A6%9D%ED%88%B4%EA%B0%9C%EB%B0%9C)
+- [상세보기] : https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/02_%EC%97%94%EC%A7%84EMS%EC%A0%9C%EC%96%B4%EA%B8%B0Calibration%EA%B2%80%EC%A6%9D%ED%88%B4%EA%B0%9C%EB%B0%9C
+- [데모영상] : https://drive.google.com/file/d/1FOjaVewZx9lQeHj78x7tpEFKIXQAxCcG/view?usp=sharing
 
 ### 3. 배터리 셀 성능 데이터 오토 리포팅 어플리케이션 개발 
 - 기간 : 2023.06 ~ 2024.05
 - 기술 : VisualBasic, Python 3.9
 - 설명 : 셀단위의 배터리 성능을 평가/분석하기 위해 웹기반 데이터 플랫폼에 데이터베이스에 접근하여 용량분석, 전력성능, 충방전 효율, SOC-OCV 선도 등의 성능 지표를 자동분석해주는 툴 개발
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/03_%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%85%80%EC%84%B1%EB%8A%A5%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%98%A4%ED%86%A0%EB%A6%AC%ED%8F%AC%ED%8C%85%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B0%9C%EB%B0%9C)
+- [상세보기] : https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/03_%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%85%80%EC%84%B1%EB%8A%A5%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%98%A4%ED%86%A0%EB%A6%AC%ED%8F%AC%ED%8C%85%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B0%9C%EB%B0%9C
 
 ### 4. 선박 중형엔진 데이터분석 템플릿 개발 
 - 기간 : 2024.01 ~ 2024.12
 - 기술 : VisualBasic, Python 3.9, Oracle SQL
 - 설명 : 중형선박 엔진 개발시 대상시험에서 취득되는 제어기 데이터 및 연소해석 데이터를 Load 조건별 효율적 데이터분석을 위한 오토리포팅 템플릿 개발
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/04_%EC%84%A0%EB%B0%95%EC%A4%91%ED%98%95%EC%97%94%EC%A7%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B0%9C%EB%B0%9C)
+- [상세보기] : https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/04_%EC%84%A0%EB%B0%95%EC%A4%91%ED%98%95%EC%97%94%EC%A7%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B0%9C%EB%B0%9C
+- [데모영상] : https://drive.google.com/file/d/1dmU4yFK8k9ejSrBacnZFsa9kevjpW015/view?usp=sharing
 
 ### 5. 차량 엔진 테스트베드 오토리포팅 앱 개발
 - 기간 : 2024.11 ~ 2025.06
 - 기술 : VisualBasic, Python 3.9
 - 설명 : 엔진 다이노 테스트베드에서 계측되는 엔진 동작시의 주요 파라미터의 로그 데이터를 사용자가 핸들링, 구간별 분석, 계측 시각화, 자동 레포팅 하는 후처리 분석기 툴 개발
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/05_%EC%B0%A8%EB%9F%89%EC%97%94%EC%A7%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C%EC%98%A4%ED%86%A0%EB%A6%AC%ED%8F%AC%ED%8C%85%EC%95%B1%EA%B0%9C%EB%B0%9C)
+- [상세보기] : https://github.com/silentanderson/Portfolio2025/tree/main/00_AVLKorea/projects/05_%EC%B0%A8%EB%9F%89%EC%97%94%EC%A7%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C%EC%98%A4%ED%86%A0%EB%A6%AC%ED%8F%AC%ED%8C%85%EC%95%B1%EA%B0%9C%EB%B0%9C
+- [데모영상] : https://drive.google.com/file/d/1gc8daoaRWn0dLTSujzCvyA7QZTKkq-C6/view?usp=sharing
 
 ## 주요 프로젝트 - INNOSIMULATION
 
 가상환경을 기반으로 한 교통량 검증, 교통 신호체계 검증, ADAS/AD 로직 검증, 차량동역학 검증의 목적으로 수행한 도로주행환경 구축 관련 중심 포트폴리오 입니다.
 각 업무의 개요, 기술 스택, 결과물 요약을 포함하고 있습니다.
+[업무예시보기] : https://www.youtube.com/watch?v=oEsT2L3yC2E
 
 ### 1. 가상주행 국내 기술지원
 - 기간 : 2018.06 ~ 2021.04
@@ -63,7 +68,7 @@
 ## 주요 프로젝트 - 광주과학기술원(GIST)
 
 석사과정 및 연구원 기간동안 기업과 수행했던 산학프로젝트를 간단히 정리해놓습니다.
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/02_GIST/Portfolio_GIST.pdf)
+- [상세보기] : https://github.com/silentanderson/Portfolio2025/blob/main/02_GIST/Portfolio_GIST.pdf
 
 ### 1. 차량용 햅틱 디스플레이 개발 및 평가 - 1차년도
 - 기간 : 2016.02 ~ 2016.11
